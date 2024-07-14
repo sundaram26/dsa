@@ -1,0 +1,3 @@
+else{
+        //     number = ch - 'A';
+        // }
